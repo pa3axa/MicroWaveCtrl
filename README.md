@@ -1,11 +1,11 @@
-# MircoWaveCtrl
+# MicroWaveCtrl
 
-Programmable Power Supply Controller for Miccowave projects
+Programmable Power Supply Controller for Microwave projects
 
 ### Features
 
 - 2x 3 Amp DC Buck Convertor with optional 2 Amp LDO secondstage
-   to remove SW noise
+     to remove SW noise
 - 1x 100mA DC Boost Convertor for 28V Coax relais control
 - 3x General purpose relays 
 - 1x Optical isolated GPI-IN
